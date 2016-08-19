@@ -15,6 +15,7 @@ public class CineTudo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("cinetudo.gui.CineTudo.main()");
         // TODO code application logic here
     }
     
